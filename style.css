@@ -114,21 +114,3 @@ footer {
   margin-top: 20px;
 }
 
-.hobby-button {
-  background-color: white;
-  color: black;
-  padding: 10px 20px;
-  text-decoration: none;
-  font-weight: bold;
-  border-radius: 10px;
-  box-shadow: 0 0 10px white;
-  transition: all 0.3s ease;
-  width: 200px;
-  text-align: center;
-}
-
-.hobby-button:hover {
-  background-color: black;
-  color: white;
-  box-shadow: 0 0 15px white;
-}
