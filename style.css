@@ -107,9 +107,9 @@ footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 50px; / 
-  margin-top: 30px; 
-  padding: 20px 0;  
+  gap: 150px; / 
+  margin-top: 50px; 
+  padding: 40px 0;  
 }
 .hobby-card {
   background-color: #fff;
