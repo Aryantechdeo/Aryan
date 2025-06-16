@@ -23,8 +23,8 @@ section {
 }
 
 .about-box {
-  background: #111;               /* Black background */
-  color: #fff;                    /* White text */
+  background: #111;               
+  color: #fff;                    
   border-radius: 12px;
   padding: 40px 20px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.4);
@@ -107,9 +107,9 @@ footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 50px; /* ⬅️ Increased from 30px to 50px */
-  margin-top: 30px; /* Slightly more space from top */
-  padding: 20px 0;   /* Adds top and bottom spacing */
+  gap: 50px; / 
+  margin-top: 30px; 
+  padding: 20px 0;  
 }
 .hobby-card {
   background-color: #fff;
@@ -130,7 +130,6 @@ footer {
   box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
 }
 
-/* Animation keyframes */
 @keyframes fadeInUp {
   to {
     opacity: 1;
